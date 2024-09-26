@@ -54,7 +54,7 @@ This project has potential applications in:
    ```
 
 2. Upload Arduino sketch:
-   - Open `main.ino` in the Arduino IDE
+   - Open `ard_main.ino` in the Arduino IDE
    - Connect your Arduino board
    - Select the correct board and port in the Arduino IDE
    - Upload the sketch to your Arduino
