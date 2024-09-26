@@ -33,6 +33,10 @@ This project has potential applications in:
 - Educational tools for robotics and programming
 - Virtual reality and telepresence systems
 
+## Arduino Architecture
+
+![arduino_archi](https://github.com/user-attachments/assets/15ab100f-df04-4087-9582-b1e3e42042f0)
+
 ## Getting Started
 
 ### Prerequisites
