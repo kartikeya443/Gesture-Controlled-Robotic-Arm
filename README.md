@@ -33,6 +33,10 @@ This project has potential applications in:
 - Educational tools for robotics and programming
 - Virtual reality and telepresence systems
 
+## Hand Landmarks
+
+<img width="1073" alt="hand-landmarks" src="https://github.com/user-attachments/assets/b3546ba2-ade8-4a44-bd2e-eeed9f05bec0">
+
 ## Arduino Architecture
 
 ![arduino_archi](https://github.com/user-attachments/assets/15ab100f-df04-4087-9582-b1e3e42042f0)
